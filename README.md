@@ -1,7 +1,7 @@
-## 'Locations App' Server 
+## Locations Server 
 
 ### note:
-app code can be found in [wix-editor-locations-app](https://github.com/sggv950/wix-editor-locations-app).
+app code can be found in [locations-app](https://github.com/sggv950/locations-app).
 
 ## Stack:
 
